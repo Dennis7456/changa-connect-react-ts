@@ -27,7 +27,8 @@ import PageNotFound from "./pages/404NotFound";
 
 const httpLink = new HttpLink({
   // uri: "http://localhost:4000/graphql",
-  uri: "https://changa-connect-node-h7un89yes-dennis7456s-projects.vercel.app/graphql",
+  // uri: "https://changa-connect-node-h7un89yes-dennis7456s-projects.vercel.app/graphql",
+  uri: "https://changa-connect-node-ts.vercel.app/graphql",
   fetchOptions: {
     // mode: 'cors'
   },
