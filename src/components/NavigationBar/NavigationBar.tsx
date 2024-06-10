@@ -67,7 +67,7 @@ const NavigationBar = () => {
                 </Link>
               </li>
             )}
-            {location.pathname === "/test" ? (
+            {/* {location.pathname === "/test" ? (
               <li className="pr-3">
                 <Link
                   to="/test"
@@ -85,7 +85,7 @@ const NavigationBar = () => {
                   Test
                 </Link>
               </li>
-            )}
+            )} */}
           </div>
           <br/>
           <div className="">
